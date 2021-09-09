@@ -26,8 +26,6 @@ Here are some ideas to get you started: -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git&logoColor)
 
-- - And:
-
 - 🤔 I plan to study:
 
 ![React JS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=9cf)

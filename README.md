@@ -1,4 +1,4 @@
-[![Header](https://github.com/ubahbojikob/ubahbojikob/blob/main/assets/cv.png)](https://discord.com/channels/@me)
+[![Header](assets\header.png)](https://discord.com/channels/@me)
 
 ### Hi there 👋
 

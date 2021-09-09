@@ -1,10 +1,14 @@
+[![Header](https://github.com/ubahbojikob/ubahbojikob/blob/main/assets/cv.png)](https://discord.com/channels/@me)
+
 ### Hi there 👋
 
 <!--
 **ubahbojikob/ubahbojikob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+### Hi there 👋
 
+- About me: I am beginner SoftWareEngineer
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

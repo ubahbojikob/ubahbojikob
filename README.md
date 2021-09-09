@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 
 - 📫 How to reach me:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](<(https://t.me/IvanWolkov)>)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor)](https://t.me/IvanWolkov)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=)]('!#')
 [![Twitter](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=)]('!#')
 [![Linkedin](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=)]('!#')
